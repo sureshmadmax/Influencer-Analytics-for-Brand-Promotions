@@ -49,7 +49,7 @@ The analysis is performed using Python and popular data analysis libraries on a 
 2. 📊 View the [Project Presentation](./Instagram%20Influencer%20Analytics%20for%20Brand%20Promotions%20(1).pptx) for a summarized visual report.
 3. 💡 Use the outlined logic and methodology to implement or scale in your own influencer marketing tools or analysis systems.
 4. <a href="https://github.com/sureshmadmax/Influencer-Analytics-for-Brand-Promotions/blob/main/Insta_Influencer_Data_set.csv">DATA_SET 
-5. <a href="https://github.com/sureshmadmax/Influencer-Analytics-for-Brand-Promotions/blob/main/Top_Influencers.csv"> FINAL DATA_sET
+5. <a href="https://github.com/sureshmadmax/Influencer-Analytics-for-Brand-Promotions/blob/main/Top_Influencers.csv"> FINAL DATA_SET
 ---
 
 ## 👥 Team Details
