@@ -1,6 +1,6 @@
-This project presents a *data-driven system* to help brands and marketers identify high-performing Instagram influencers for promotional campaigns. It evaluates influencer performance using key metrics like *Engagement Rate, **Influencer Score, **Promotions Rate, and a commercial estimate called **Expected Money*.
+This project presents a ***data-driven system*** to help brands and marketers identify high-performing Instagram influencers for promotional campaigns. It evaluates influencer performance using key metrics like ***Engagement Rate***, ***Influencer Score***, ***Promotions Rate***, and a commercial estimate called ***Expected Money***.
 
-The analysis is performed using Python and popular data analysis libraries on a *synthetic dataset of 500 influencers* from various niches like Fashion, Fitness, Technology, and Education.
+The analysis is performed using Python and popular data analysis libraries on a ***synthetic dataset of 500 influencers*** from various niches like Fashion, Fitness, Technology, and Education.
 
 ---
 
