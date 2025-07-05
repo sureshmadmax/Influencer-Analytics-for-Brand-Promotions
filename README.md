@@ -52,12 +52,4 @@ The analysis is performed using Python and popular data analysis libraries on a 
 5. <a href="https://github.com/sureshmadmax/Influencer-Analytics-for-Brand-Promotions/blob/main/Top_Influencers.csv"> FINAL DATA_SET
 ---
 
-## 👥 Team Details
-
-- *Team Lead*: Reddy Suresh – 24P35A1212
-- *Course*: B.Tech in Information Technology
-- *Institution*: Aditya college of engineering and technology 
-- 📍 India
-
----
 
