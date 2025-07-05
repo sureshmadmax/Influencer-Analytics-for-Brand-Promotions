@@ -55,13 +55,8 @@ The analysis is performed using Python and popular data analysis libraries on a 
 
 - *Team Lead*: Reddy Suresh – 24P35A1212
 - *Course*: B.Tech in Information Technology
-- *Institution*: APSSDC
+- *Institution*: Aditya college of engineering and technology 
 - 📍 India
 
 ---
 
-## 📜 License
-
-This project is created for academic and educational use only. For commercial use or collaboration, please contact the project owner.
-
----
