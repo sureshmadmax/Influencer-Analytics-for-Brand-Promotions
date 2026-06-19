@@ -53,3 +53,48 @@ The analysis is performed using Python and popular data analysis libraries on a 
 ---
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Influencer Analytics for Brand Promotions
+
+## Project Overview
+This project analyzes influencer marketing data to help brands identify high-performing influencers and estimate promotional revenue opportunities.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Power BI
+
+## Dashboard Features
+- Total Followers KPI
+- Average Engagement Rate
+- Average Influencer Score
+- Expected Revenue Analysis
+- Niche Filter
+- Engagement vs Followers Analysis
+- Revenue by Niche
+
+## Key Insights
+- Fitness influencers have the highest influencer score.
+- Health influencers show strong promotional potential.
+- Technology influencers have the lowest influencer score.
+- Higher follower counts often result in lower engagement rates.
+- Fitness and Health niches generate the highest expected revenue.
+
+## Files
+- Influencer_Analytics_Dashboard.pbix
+- Influencer_Analytics_Report.pdf
+- dashboard_overview.png
+- performance_analysis.png
