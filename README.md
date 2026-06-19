@@ -95,6 +95,3 @@ This project analyzes influencer marketing data to help brands identify high-per
 
 ## Files
 - Influencer_Analytics_Dashboard.pbix
-- Influencer_Analytics_Report.pdf
-- dashboard_overview.png
-- performance_analysis.png
